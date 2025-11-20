@@ -181,7 +181,7 @@ At first, the lack of beginner friendly tags set me off from this repository. I 
 
 </details>
 
-<details markdown"1"><summary>BP05</summary>
+<details markdown="1"><summary>BP05</summary>
 
 ## Open Source Licensing
 

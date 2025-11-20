@@ -20,7 +20,7 @@ Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A
 [Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
 
 
-<details><summary>BP01</summary>
+<details markdown="1"><summary>BP01</summary>
 
 ## What is Open Source?
 
@@ -54,7 +54,7 @@ In addition to these open source softwares, large companies such as Google host 
 
 For entirely open source projects, take Blender for example, this means that the community that utilizes this software is able to have a stronger voice in changes to the software than if it was not open source. For large companies like Google, this allows them to benefit from the extra volunteer development/ideas from open source while still keeping key aspects of their software proprietary.</details>
 
-<details><summary>BP02</summary>
+<details markdown="1"><summary>BP02</summary>
 
 ## What I learned about Markdown and Git
 
@@ -92,7 +92,7 @@ I was most surprised by how widely used Git and Markdown are. Some examples wher
 > And for examples of software that uses Git/GitHub, see last week's blog post
 </details>
 
-<details><summary>BP03</summary>
+<details markdown="1"><summary>BP03</summary>
 
 ## How I chose a repository to explore
 
@@ -136,7 +136,7 @@ starting with three simple rules to ensure that anyone who wants to contribute c
 
 It is essential that an open-source project be accessable if it is to attract a large amount of contributors.</details>
 
-<details><summary>BP04</summary>
+<details markdown="1"><summary>BP04</summary>
 
 # Reveal.js
 
@@ -174,7 +174,7 @@ At first, the lack of beginner friendly tags set me off from this repository. I 
   <i>We should put this apple in the repo in case someone gets hungry</i>
 </p></details>
 
-<details><summary>BP05</summary>
+<details markdown"1"><summary>BP05</summary>
 
 ## Open Source Licensing
 
@@ -205,7 +205,7 @@ A repo I am interested in is called [Cubyz](https://github.com/PixelGuys/Cubyz),
 
 > *This screenshot was taken from the preamble of the GNU General Public License v3.0*</details>
 
-<details><summary>BP06</summary>
+<details markdown="1"><summary>BP06</summary>
 
 # My Experience With Global Hack Week
 
@@ -238,7 +238,7 @@ The thing that I found most surprising was how inviting the GHW community was. T
 
 > I also learned that I suck at Tetris!</details>
 
-<details><summary>BP07</summary>
+<details markdown="1"><summary>BP07</summary>
 
 ## Explore Non Code Contributions
 

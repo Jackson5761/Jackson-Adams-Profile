@@ -21,7 +21,8 @@ Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A
 
 
 <details><summary>BP01</summary>
-  ## What is Open Source?
+
+## What is Open Source?
 
 For a project/software to be open source means that the source code is able to be accessed freely and portions may be edited and redistributed.
 

@@ -9,4 +9,4 @@ layout: home
 
 # Biography
 
-My name is Jackson Adams. I am a math major at Northern Illinois University who is planning on pursuing a PhD in pure mathematics. I am also currently an instructor at Mathnasium, where I have worked since the beginning of 2024.
+My name is Jackson Adams. I am a math major at Northern Illinois University who is planning on pursuing a PhD in pure mathematics. I am currently most interested in Algebraic Topology, particularly homology theory and the study of invariants under different topological transformations in general. I am also currently an instructor at Mathnasium, where I have worked since the beginning of 2024.

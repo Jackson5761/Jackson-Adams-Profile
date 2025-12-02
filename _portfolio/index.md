@@ -9,14 +9,15 @@ permalink: /portfolio/index.html
 
 ### freeCodeCamp
 
-[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) is a github repository that helps people learn to code for free. There was a section that needed an explanation and I attempted to contribute by adding an explanation similar to an already existing explanation elsewhere in the project.
+[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) is a GitHub repository that helps people learn to code for free. There was a section that needed an explanation and I attempted to contribute by adding an explanation similar to an already existing explanation elsewhere in the project.
 
 [Here](https://github.com/freeCodeCamp/freeCodeCamp/pull/64011) is a link to the pull request I made.
 
 This is what the explanation looks like:
 
+<img src="https://github.com/Jackson5761/Jackson-Adams-Profile/blob/master/assets/images/contribution.png?raw=true" width="50%" hspace="20">
 
-
+Unfortunately I was unable to utilize GitHub codespaces to make this contribution as I was having technical difficulties, and so the pull request was rejected.
 
 # Blog Posts
 

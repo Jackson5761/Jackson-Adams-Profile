@@ -5,16 +5,20 @@ header:
 permalink: /portfolio/index.html
 ---
 
-*The following publications are fictional, and are only intended for this job market website demo.*
+# Project Contributions
 
-# Research
+### freeCodeCamp
 
-<h2 id="publications">Publications</h2>
-  
-<h2 id="working-papers">Working Papers</h2> 
-  
-**Job Market Paper:**
+[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) is a github repository that helps people learn to code for free. There was a section that needed an explanation and I attempted to contribute by adding an explanation similar to an already existing explanation elsewhere in the project.
 
+[Here](https://github.com/freeCodeCamp/freeCodeCamp/pull/64011) is a link to the pull request I made.
+
+This is what the explanation looks like:
+
+
+
+
+# Blog Posts
 
 <details markdown="1"><summary>BP01</summary>
 
